@@ -1,0 +1,1 @@
+This repository contains the solutions of all the assignments required for the course UCS420 (Cognitive Computing).
